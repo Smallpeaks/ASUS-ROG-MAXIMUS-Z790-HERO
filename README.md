@@ -18,33 +18,33 @@
 
 ## Compatible macOS Versions
 
-. Monterey (12.1-12.7X)
+ Monterey (12.1-12.7X)
 
-. Ventura (13.0-13.7X)
+ Ventura (13.0-13.7X)
 
-. Sonoma (14.0-14.7X)
+ Sonoma (14.0-14.7X)
 
-. Sequoia (15.0-15.5Beta3)
+ Sequoia (15.0-15.5Beta3)
 
 ## ASUS-ROG-MAXIMUS-Z790-HERO-RX590Series Motherboards MacOS 15.5Beta3 Completeness:
 
-. CPU Normal Turbo Frequency (i5/i7/i9/etc.)
+ CPU Normal Turbo Frequency (i5/i7/i9/etc.)
 
-. Onboard audio is normal
+ Onboard audio is normal
 
-. The graphics card supports HDMI/DP display output
+ The graphics card supports HDMI/DP display output
 
-. The front and rear 3.5 audio outputs are normal
+ The front and rear 3.5 audio outputs are normal
 
-. Sleep wake-up is normal
+ Sleep wake-up is normal
 
-. WIFI and Bluetooth is in normal use
+ WIFI and Bluetooth is in normal use
 
-. frequency conversion is in normal use
+ frequency conversion is in normal use
 
-. USB（Type-C）is in normal use
+ USB（Type-C）is in normal use
 
-#I won't talk about them one by one
+I won't talk about them one by one
 
 Solution 1: The onboard intel AX210 Bluetooth and WIFi can be driven, and the network speed is very good, but it does not support air-car. MacOS 15 requires the HELIPORT APP to use the WIFI function
 
@@ -78,9 +78,9 @@ The boot can support independent graphics (RX560/570/590/5500/5600/5700/6600 and
 
 ### SIP Off/On
 
-. Hold down the cmd R key when macOS boots up to enter Recovery mode
+ Hold down the cmd R key when macOS boots up to enter Recovery mode
 
-. Open the terminal and enter:
+ Open the terminal and enter:
 
       # 关闭 SIP
       
