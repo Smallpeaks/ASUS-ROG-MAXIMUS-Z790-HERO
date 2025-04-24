@@ -60,11 +60,11 @@ The boot can support independent graphics (RX560/570/590/5500/5600/5700/6600 and
 
 | ACPIs                    |
 |--------------------------|
-|  SSDT-RTCAWAC            |
-|  SSDT-SBUS-MCHC          |
+|  SSDT-AWAC               |
+|  SSDT-RHUB               |
 |  SSDT-PLUG-ALT           |
 |  SSDT-EC                 |
-|  SSDT-USBX               | 
+|  SSDT-PMC                | 
 
 ### Drivers
 
